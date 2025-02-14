@@ -105,13 +105,7 @@ git clone https://github.com/MohdSafiya02/loan-prediction.git
 cd loan-prediction
 ```
 
-2️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-3️⃣ Run the model
+2️⃣ Run the model
 
 ```bash
 python loan_prediction.py
