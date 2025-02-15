@@ -1,9 +1,4 @@
-# loan-prediction
-
-Here's a well-structured README for your **Loan Prediction** project:
-
 ---
-
 # 📌 Loan Prediction Project
 
 ## 📖 Introduction
@@ -11,7 +6,6 @@ Here's a well-structured README for your **Loan Prediction** project:
 This is a **loan prediction system** built using **Python** and **machine learning algorithms**. The goal is to classify loan applications as **approved (Y) or not approved (N)** based on multiple financial and demographic factors.
 
 We explored **logistic regression, decision trees, and random forests**, compared their performance, and optimized hyperparameters using **GridSearchCV**.
-
 ---
 
 ## 🎯 Problem Statement
